@@ -6,8 +6,7 @@ You can see these apps and more [here](http://frutose.pythonanywhere.com/).
 
 I'll eventually let the user create an account to mess with some of the features, but right now you can login as
 
-user: **user**
-password: **django12**
+user: **user** / password: **django12**
 
 ### The apps
 
